@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Loveverma92
-- 👀 I’m a full stack developer with hands on React.js | Next.js | Typescript | Node.js | Laravel | GraphQL | MySQL | MongoDB
+# 👋 Hi, I’m @Loveverma92
+- 👀 I’m a full stack developer with hands on React.js | Next.js | Typescript | Node.js | Laravel | GraphQL | MySQL | MongoDB.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 verma.love921@gmail.com
